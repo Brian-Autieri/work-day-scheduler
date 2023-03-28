@@ -6,7 +6,7 @@ The purpose of this project was to refactor a work day scheduler so that users c
 
 ## Usage
 
-Users can follow the link to the deployed webpage to access the work day scheduler. Click in the text area to fill in your daily schedule next to the appropriate hour and click the blue "save" button on the right.
+Users can follow the link to the deployed webpage to access the work day scheduler. Click in the text area to fill in your daily schedule next to the appropriate hour and click the blue "save" button on the right to save your input onto the scheduler.
 
 ### Webpage Link
 
